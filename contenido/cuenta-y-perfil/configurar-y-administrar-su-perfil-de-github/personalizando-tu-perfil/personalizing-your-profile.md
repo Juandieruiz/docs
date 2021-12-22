@@ -32,7 +32,7 @@ When you sign up for an account, {% data variables.product.product_name %} provi
 {% endtip %}
 
 ### Setting a profile picture
-
+#nombre
 {% data reusables.user_settings.access_settings %}
 2. Under **Profile Picture**, click {% octicon "pencil" aria-label="The edit icon" %} **Edit**.
 ![Edit profile picture](/assets/images/help/profile/edit-profile-photo.png)
